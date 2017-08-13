@@ -1,1 +1,1 @@
-# MLGames
+Teach a computer to have fun
