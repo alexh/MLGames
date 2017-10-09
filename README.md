@@ -1,6 +1,7 @@
 
 # Intro
-Teaching computers to have fun
+Simple evolutionary neural net for playing Super Mario Bros. on Nintaco NES emulator
+
 # Instructions
 1. Download [Nintaco](http://nintaco.com/index.html) save the zip contents to `nintaco/`
 2. Download [Nintaco SDK](http://nintaco.com/api.html) save the zip contents to `nintaco_API/`
